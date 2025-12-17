@@ -3,7 +3,9 @@
 ## 1. 项目简介
 
 随着工业设备运行数据规模和复杂度不断增加，单一模型在预测精度与计算成本之间往往难以兼顾。
-本项目复现了一种 **CoLLM（Collaborative Large & Small Models）** 协作框架，通过引入：
+本项目复现了一种 **CoLLM: Industrial Large-Small Model
+Collaboration with Fuzzy Decision-making Agent
+and Self-Reflection** 协作框架，通过引入：
 
 * 小模型（Small Model）
 * 大模型（Large Model，基于 GPT-2）
@@ -160,5 +162,6 @@ COLM/
 ├── results_test/
 └── README.md
 ```
+
 
 
