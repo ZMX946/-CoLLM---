@@ -15,6 +15,7 @@ and Self-Reflection** 协作框架，通过引入：
 实现工业时序任务中 **高效性与高精度的协同预测**。
 
 本项目以 **NASA CMAPSS 发动机退化数据集（FD001）** 为实验对象，完成剩余使用寿命（RUL）预测任务。
+![结果图](results/rul_comparison.png)
 
 ---
 
@@ -162,6 +163,7 @@ COLM/
 ├── results_test/
 └── README.md
 ```
+
 
 
 
